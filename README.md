@@ -2,7 +2,7 @@
 
 Tiny Mathematica package for exporting OpenEXR files.
 
-|             |              |
+| Parameter   | Value        |
 |-------------|--------------|
 | Type        | 32-bit float |
 | Compression | none         |
