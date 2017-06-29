@@ -2,6 +2,7 @@
 
 Tiny Mathematica package for exporting OpenEXR files.
 
+|-------------|--------------|
 | Type        | 32-bit float |
 | Compression | none         |
 | Channels    | 3 RGB only   |
